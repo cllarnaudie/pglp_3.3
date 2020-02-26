@@ -1,3 +1,0 @@
-1)La solution ne respecte pas LSP car la classe RobotStatique hérite de la classe Robot.
-RobotStatique a donc la fonction avance de la classe Robot mais cette fonction ne marche pas car elle retourne seulement 
-une exception.
